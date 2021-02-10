@@ -1,17 +1,19 @@
-[
-  {
-    "code": "EUR",
-    "name": "Euro",
-    "unit_usd": 0.83
-  },
-  {
-    "code": "USD",
-    "name": "US Dollar",
-    "unit_usd": 1
-  },
-  {
-    "code": "Rp",
-    "name": "Rupiah",
-    "unit_usd": 13988.75
-  }
-]
+{ 
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "unit_usd": 0.83
+    },
+    {
+      "code": "USD",
+      "name": "US Dollar",
+      "unit_usd": 1
+    },
+    {
+      "code": "Rp",
+      "name": "Rupiah",
+      "unit_usd": 13988.75
+    }
+  ]
+}
